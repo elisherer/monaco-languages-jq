@@ -1,0 +1,32 @@
+{
+  "name": "monaco-languages-jq",
+  "version": "1.0.0",
+  "description": "Monaco Editor JQ language definition (and syntax highlight)",
+  "main": "./src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elisherer/monaco-languages-jq.git"
+  },
+  "keywords": [
+    "monaco",
+    "monaco-editor",
+    "syntax",
+    "highlight",
+    "jq",
+    "languages",
+    "monarch",
+    "language"
+  ],
+  "author": {
+    "name": "Eli Sherer",
+    "email": "eli.sherer@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elisherer/monaco-languages-jq/issues"
+  },
+  "homepage": "https://github.com/elisherer/monaco-languages-jq#readme",
+  "devDependencies": {
+    "prettier": "2.2.1"
+  }
+}
